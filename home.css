@@ -1,0 +1,38 @@
+
+.header{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+.navbar{
+    text-align: center;
+}
+
+.navbar a{
+    color: black; /* Text color */
+    text-align: center;
+    padding: 14px 16px; /* Padding for each link */
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-img{
+    height: 500px;
+    width: auto;
+    padding-bottom: 30px;
+}
+
+.about{
+    font-family: sans-serif;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
