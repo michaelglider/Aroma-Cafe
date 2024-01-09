@@ -1,10 +1,10 @@
-# Aroma-Cafe
+# Aroma-Cafe 
 A website for a cafe named "Aroma"☕️. This website should make you crave coffee and understand the cafes ambiance.
 
 ## The Idea behind this project 💡
 The idea behind this project is every programmer loved to drink coffee, so I thought, why not make a website about an imaginary cafe with a very minimilist feel. 
 
-## What I learned
+## What I learned 🧠
 - Heavily focused on the design of this website to give it a minimilst/highclass feel
 - Creating transitions between pages and working with the transform property.
 
