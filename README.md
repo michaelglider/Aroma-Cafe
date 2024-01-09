@@ -5,8 +5,8 @@ A website for a cafe named "Aroma"☕️. This website should make you crave cof
 The idea behind this project is every programmer loved to drink coffee, so I thought, why not make a website about an imaginary cafe with a very minimilist feel. 
 
 ## What I learned 🧠
-- Heavily focused on the #design of this website to give it a minimilst/highclass feel
-- Creating #transitions between pages and working with the transform property.
+- Heavily focused on the design of this website to give it a minimilst/highclass feel
+- Creating transitions between pages and working with the transform property.
 
 ## How it looks 🎥
 <img width="1500" alt="Screenshot 2024-01-08 at 4 02 40 PM" src="https://github.com/michaelglider/Aroma-Cafe/assets/71361118/21efe61d-ebab-4870-9e05-bdf69d8893ab">
